@@ -27,7 +27,7 @@ return (
   <b> <p>Task Done By Yuvraj Singh (12019914)</p></b>``
 	Counter
 	<div style={{a
-		fontSize: '120%',
+		fontsize: '120%',
 		position: 'relative',
 		top: '10vh',
 	}}>
